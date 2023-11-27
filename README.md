@@ -1,8 +1,8 @@
 <h1 align="center">Hi👋, I'm Malaury TOUSSI</h1>
 
-<h3 align="justify">I'm a <span style="color:#2AB7CA">Data Engineer</span> from Cameroon, with some experiences in BI, data engineering and software development. I'm also interested in <span style= "color:#FED766">Finance </span>, <span style="color:#FED766">Economy</span> & <span style="color:#FED766">Data Science</span>. I'm open to collaborating on projects and sharing ideas. </h3>
+<h3 align="justify">I'm a <span style="color:#2AB7CA">Data Engineer</span> from Cameroon, with some experiences in BI, <span style="color:#B8D8BA">Data Engineering</span> and <span style="color:#B8D8BA">Software Development</span>. I'm also interested in <span style= "color:#FED766">Finance </span>, <span style="color:#FED766">Economy</span> & <span style="color:#FED766">Data Science</span>. I'm open to collaborating on projects and sharing ideas. </h3>
 
-<h4 align="justify">I define myself like a <span style="color:#83E8BA">Problem Solver</span>. I respond to question <span style="color:#FE4A49  ">"How can you add value to your data ? 📈 "</sapn></h4>
+<h4 align="justify">I define myself like a <span style="color:#B8D8BA">Problem Solver</span>. I respond to question <span style="color:#FE4A49">"How can you add value to your data ? 📈 "</sapn></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TM-SQuared&label=Profile%20views&color=0e75b6&style=flat" alt="TL-SQuared" /> </p>
 
